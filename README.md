@@ -1,2 +1,1 @@
-# paulcao.github.com
-Paul Cao's homepage
+# Welcome to Paul Cao's homepage
