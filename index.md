@@ -11,11 +11,11 @@ My teaching interests include, but not limited to, CS1/2, data structures, algor
 
 ## Education
 
-- PhD. 2006. Duke University (Electrical & Computer Engineering)
-- MS. 2003.  Duke University (Electrical & Computer Engineering)
-- B.S. 2001. Nanjing University of Science & Technology (Industrial Engineering)
+- PhD. [Duke University](http://www.duke.edu) (Electrical & Computer Engineering)
+- MS. [Duke University](http://www.duke.edu) (Electrical & Computer Engineering)
+- B.S. [Nanjing University of Science & Technology](http://www.njust.edu.cn) (Industrial Engineering)
 
-If you want to request a reference letter from me, please read this page.--
+If you want to request a reference letter from me, please read [this page](/referemce).--
 
 
 
