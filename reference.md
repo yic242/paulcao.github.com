@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reference Letters
-permalink: /home/reference
 ---
 
 If you are reading this page, it means you might be interested in asking me to write a reference letter for you. Though I would, in general, agree to write letters for students, here are some guidelines that you should know.
