@@ -15,7 +15,7 @@ My teaching interests include, but not limited to, CS1/2, data structures, algor
 - MS. [Duke University](http://www.duke.edu) (Electrical & Computer Engineering)
 - B.S. [Nanjing University of Science & Technology](http://www.njust.edu.cn) (Industrial Engineering)
 
-If you want to request a reference letter from me, please read [this page](/referemce).--
+If you want to request a reference letter from me, please read [this page](./reference.md).
 
 
 
