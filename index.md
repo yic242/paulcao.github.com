@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Welcome to Paul Cao's homepage
 
 I am currently a lecturer in the [computer science & engineering dept](http://cse.ucsd.edu) at [UC San Diego](https://www.ucsd.edu). Before coming to UCSD, I was an associate professor of computer science at [Ashland University (OH)](https://www.ashland.edu).
 
